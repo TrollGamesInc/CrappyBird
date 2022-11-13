@@ -1,4 +1,4 @@
-CrappyBird
+CrappyBird [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrollgamesinc%2Fcrappybird&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ==========
 
 Clone of Flappy Bird game in JavaScript and Canvas 2D
@@ -6,7 +6,7 @@ Clone of Flappy Bird game in JavaScript and Canvas 2D
 
 The MIT License
 ----
-Copyright (c) 2014 Varun Pant
+Copyright (c) 2014 Troll Games Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
